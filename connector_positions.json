@@ -1,0 +1,338 @@
+{
+        "FUNCTIONAL_GROUP_1 Device 1": {
+    "W": {
+      "Attributes": {
+        "Direction": "West"
+      },
+      "Position": [-1,4.9]
+    },
+    "E": {
+      "Attributes": {
+        "Direction": "East"
+      },
+      "Position": [50,4.9]
+    },
+      "N": {
+      "Attributes": {
+        "Direction": "North"
+      },
+      "Position": [26.2,11.3]
+    },
+      "S": {
+      "Attributes": {
+        "Direction": "South"
+      },
+      "Position": [26.2,-1.2]
+    }
+
+    },
+        "FUNCTIONAL_GROUP_1 Device 2": {
+    "W": {
+      "Attributes": {
+        "Direction": "West"
+      },
+      "Position": [-1,4.9]
+    },
+    "E": {
+      "Attributes": {
+        "Direction": "East"
+      },
+      "Position": [50,4.9]
+    },
+      "N": {
+      "Attributes": {
+        "Direction": "North"
+      },
+      "Position": [26.2,11.3]
+    },
+      "S": {
+      "Attributes": {
+        "Direction": "South"
+      },
+      "Position": [26.2,-1.2]
+    }
+
+    },
+        "FUNCTIONAL_GROUP_1 Device 3": {
+    "W": {
+      "Attributes": {
+        "Direction": "West"
+      },
+      "Position": [-1,4.9]
+    },
+    "E": {
+      "Attributes": {
+        "Direction": "East"
+      },
+      "Position": [50,4.9]
+    },
+      "N": {
+      "Attributes": {
+        "Direction": "North"
+      },
+      "Position": [26.2,11.3]
+    },
+      "S": {
+      "Attributes": {
+        "Direction": "South"
+      },
+      "Position": [26.2,-1.2]
+    }
+
+    },
+        "FUNCTIONAL_GROUP_1 Device 4": {
+    "W": {
+      "Attributes": {
+        "Direction": "West"
+      },
+      "Position": [-1,4.9]
+    },
+    "E": {
+      "Attributes": {
+        "Direction": "East"
+      },
+      "Position": [50,4.9]
+    },
+      "N": {
+      "Attributes": {
+        "Direction": "North"
+      },
+      "Position": [26.2,11.3]
+    },
+      "S": {
+      "Attributes": {
+        "Direction": "South"
+      },
+      "Position": [26.2,-1.2]
+    }, 
+      "S2": {
+      "Attributes": {
+        "Direction": "South"
+      },
+      "Position": [41.5,-1.3]
+    }
+    },
+        "FUNCTIONAL_GROUP_1 Device 5": {
+    "W": {
+      "Attributes": {
+        "Direction": "West"
+      },
+      "Position": [-1,4.9]
+    },
+    "E": {
+      "Attributes": {
+        "Direction": "East"
+      },
+      "Position": [50,4.9]
+    },
+      "N": {
+      "Attributes": {
+        "Direction": "North"
+      },
+      "Position": [26.2,11.3]
+    },
+      "S": {
+      "Attributes": {
+        "Direction": "South"
+      },
+      "Position": [26.2,-1.2]
+    }
+
+    },
+            "FUNCTIONAL_GROUP_1 Device 6": {
+    "W": {
+      "Attributes": {
+        "Direction": "West"
+      },
+      "Position": [-1,4.9]
+    },
+    "E": {
+      "Attributes": {
+        "Direction": "East"
+      },
+      "Position": [50,4.9]
+    },
+      "N": {
+      "Attributes": {
+        "Direction": "North"
+      },
+      "Position": [26.2,11.3]
+    },
+      "S": {
+      "Attributes": {
+        "Direction": "South"
+      },
+      "Position": [26.2,-1.2]
+    }
+
+    },
+            "FUNCTIONAL_GROUP_1 Device 7": {
+    "W": {
+      "Attributes": {
+        "Direction": "West"
+      },
+      "Position": [-1,4.9]
+    },
+    "E": {
+      "Attributes": {
+        "Direction": "East"
+      },
+      "Position": [50,4.9]
+    },
+      "N": {
+      "Attributes": {
+        "Direction": "North"
+      },
+      "Position": [26.2,11.3]
+    },
+      "S": {
+      "Attributes": {
+        "Direction": "South"
+      },
+      "Position": [26.2,-1.2]
+    }
+
+    },
+        "FUNCTIONAL_GROUP_2 Pump": {
+    "S": {
+      "Attributes": {
+        "Direction": "South"
+      },
+      "Position": [6,-1]
+    },
+    "N": {
+      "Attributes": {
+        "Direction": "North"
+      },
+      "Position": [6.1,13.2]
+    }
+    },
+        "FUNCTIONAL_GROUP_2 Device 1": {
+    "W": {
+      "Attributes": {
+        "Direction": "West"
+      },
+      "Position": [-1,4.9]
+    },
+    "E": {
+      "Attributes": {
+        "Direction": "East"
+      },
+      "Position": [50,4.9]
+    }
+
+    },
+          "FUNCTIONAL_GROUP_2 Device 2": {
+    "W": {
+      "Attributes": {
+        "Direction": "West"
+      },
+      "Position": [-1,4.9]
+    },
+    "E": {
+      "Attributes": {
+        "Direction": "East"
+      },
+      "Position": [50,4.9]
+    }
+
+    },
+          "FUNCTIONAL_GROUP_2 Device 3": {
+    "W": {
+      "Attributes": {
+        "Direction": "West"
+      },
+      "Position": [-1,4.9]
+    },
+    "E": {
+      "Attributes": {
+        "Direction": "East"
+      },
+      "Position": [50,4.9]
+    }
+
+    },
+            "FUNCTIONAL_GROUP_2 Device 4": {
+    "W": {
+      "Attributes": {
+        "Direction": "West"
+      },
+      "Position": [-1,4.9]
+    },
+    "E": {
+      "Attributes": {
+        "Direction": "East"
+      },
+      "Position": [50,4.9]
+    }
+
+    },
+        "FUNCTIONAL_GROUP_2 Heat Exchanger": {
+    "A": {
+      "Attributes": {
+        "Direction": "West"
+      },
+      "Position": [-0.9,12.1]
+    },
+    "C": {
+      "Attributes": {
+        "Direction": "West"
+      },
+      "Position": [-0.9,4.1]
+    },
+    "B": {
+      "Attributes": {
+        "Direction": "East"
+      },
+      "Position": [107.1,12.1]
+    },
+    "D": {
+      "Attributes": {
+        "Direction": "East"
+      },
+      "Position": [107.1,4.1]
+    }
+
+  },
+          "FUNCTIONAL_GROUP_2 Pipe Tee": {
+    "W": {
+      "Attributes": {
+        "Direction": "West"
+      },
+      "Position": [1,2]
+    },
+    "N": {
+      "Attributes": {
+        "Direction": "North"
+      },
+      "Position": [2,3]
+    },   
+     "E": {
+      "Attributes": {
+        "Direction": "East"
+      },
+      "Position": [3,2]
+    },     
+    "S": {
+      "Attributes": {
+        "Direction": "South"
+      },
+      "Position": [2,1]
+    }
+  },
+          "FUNCTIONAL_GROUP_2 Tank": {
+    "S": {
+      "Attributes": {
+        "Direction": "South"
+      },
+      "Position": [6,-1]
+    },
+    "E": {
+      "Attributes": {
+        "Direction": "East"
+      },
+      "Position": [13,6]
+    }
+  }
+      
+  }

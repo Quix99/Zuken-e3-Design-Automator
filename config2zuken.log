@@ -1,0 +1,806 @@
+2025-08-14 10:12:24,240 hi
+2025-08-14 10:12:24,240 hi
+2025-08-14 10:12:24,240 hi
+2025-08-14 10:12:24,240 hi
+2025-08-14 10:12:24,240 hi
+2025-08-14 10:12:24,240 hi
+2025-08-14 10:12:24,240 hi
+2025-08-14 10:12:24,240 hi
+2025-08-14 10:12:24,240 hi
+2025-08-14 10:12:24,240 hi
+2025-08-14 10:12:24,240 Start Config File Import
+2025-08-14 10:12:24,265 Import Key: ['Project Attributes', 'Project Name']
+2025-08-14 10:12:24,265 Import Value: Project XY
+2025-08-14 10:12:24,266 Import Key: ['Project Attributes', 'Responsible']
+2025-08-14 10:12:24,266 Import Value: Mr. Bean
+2025-08-14 10:12:24,266 Import Key: ['Project Attributes', 'Module Path']
+2025-08-14 10:12:24,268 Import Value: {}
+2025-08-14 10:12:24,268 Import Key: ['Project Attributes', 'Sheet Path']
+2025-08-14 10:12:24,268 Import Value: {}
+2025-08-14 10:12:24,268 Import Key: ['Project Item', 'Project']
+2025-08-14 10:12:24,268 Import Value: {}
+2025-08-14 10:12:24,268 Import Key: ['Project Item', 'Project', 'Functional Group Attributes']
+2025-08-14 10:12:24,268 Import Value: {}
+2025-08-14 10:12:24,268 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1']
+2025-08-14 10:12:24,268 Import Value: {}
+2025-08-14 10:12:24,268 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Attributes', 'Type']
+2025-08-14 10:12:24,268 Import Value: Type 1
+2025-08-14 10:12:24,269 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1']
+2025-08-14 10:12:24,269 Import Value: {}
+2025-08-14 10:12:24,269 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 1.0']
+2025-08-14 10:12:24,269 Import Value: {}
+2025-08-14 10:12:24,269 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 1.0', 'Element Attributes', 'Set']
+2025-08-14 10:12:24,269 Import Value: +
+2025-08-14 10:12:24,269 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 1.0', 'Element Attributes', 'Element Type Device']
+2025-08-14 10:12:24,269 Import Value: {}
+2025-08-14 10:12:24,269 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 1.0', 'Element Item', 'Device 1']
+2025-08-14 10:12:24,269 Import Value: {}
+2025-08-14 10:12:24,269 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 2.0']
+2025-08-14 10:12:24,269 Import Value: {}
+2025-08-14 10:12:24,269 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 2.0', 'Element Attributes', 'Set']
+2025-08-14 10:12:24,269 Import Value: +
+2025-08-14 10:12:24,269 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 2.0', 'Element Attributes', 'Element Type Device']
+2025-08-14 10:12:24,270 Import Value: {}
+2025-08-14 10:12:24,270 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 2.0', 'Element Item', 'Device 2']
+2025-08-14 10:12:24,270 Import Value: {}
+2025-08-14 10:12:24,270 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 3.0']
+2025-08-14 10:12:24,270 Import Value: {}
+2025-08-14 10:12:24,270 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 3.0', 'Element Attributes', 'Set']
+2025-08-14 10:12:24,270 Import Value: {}
+2025-08-14 10:12:24,270 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 3.0', 'Element Attributes', 'Element Type Device']
+2025-08-14 10:12:24,270 Import Value: {}
+2025-08-14 10:12:24,270 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 3.0', 'Element Item', 'Device 3']
+2025-08-14 10:12:24,270 Import Value: {}
+2025-08-14 10:12:24,270 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 3.0', 'Element Item', 'Text']
+2025-08-14 10:12:24,270 Import Value: {}
+2025-08-14 10:12:24,270 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 3.0', 'Element Item', 'Text', 'Text Item', 'Example Text']
+2025-08-14 10:12:24,270 Import Value: {}
+2025-08-14 10:12:24,271 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 3.0', 'Element Item', 'Text', 'Text Attributes', 'xOffset']
+2025-08-14 10:12:24,271 Import Value: 10
+2025-08-14 10:12:24,271 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 3.0', 'Element Item', 'Text', 'Text Attributes', 'yOffset']
+2025-08-14 10:12:24,271 Import Value: 30
+2025-08-14 10:12:24,271 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 3.0', 'Element Item', 'Text', 'Text Attributes', 'Text Colour']
+2025-08-14 10:12:24,271 Import Value: 17
+2025-08-14 10:12:24,271 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 3.0', 'Element Item', 'Text', 'Text Attributes', 'Text Height']
+2025-08-14 10:12:24,271 Import Value: 8
+2025-08-14 10:12:24,271 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 4.0']
+2025-08-14 10:12:24,271 Import Value: {}
+2025-08-14 10:12:24,271 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 4.0', 'Element Attributes', 'Set']
+2025-08-14 10:12:24,271 Import Value: {}
+2025-08-14 10:12:24,271 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 4.0', 'Element Attributes', 'Element Type Device']
+2025-08-14 10:12:24,271 Import Value: {}
+2025-08-14 10:12:24,272 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 4.0', 'Element Item', 'Device 4']
+2025-08-14 10:12:24,272 Import Value: {}
+2025-08-14 10:12:24,272 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 5.0']
+2025-08-14 10:12:24,272 Import Value: {}
+2025-08-14 10:12:24,272 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 5.0', 'Element Attributes', 'Set']
+2025-08-14 10:12:24,272 Import Value: +
+2025-08-14 10:12:24,272 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 5.0', 'Element Attributes', 'Element Type Device']
+2025-08-14 10:12:24,272 Import Value: {}
+2025-08-14 10:12:24,272 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 5.0', 'Element Item', 'Device 7']
+2025-08-14 10:12:24,272 Import Value: {}
+2025-08-14 10:12:24,272 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 6.0']
+2025-08-14 10:12:24,272 Import Value: {}
+2025-08-14 10:12:24,272 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 6.0', 'Element Attributes', 'Set']
+2025-08-14 10:12:24,273 Import Value: {}
+2025-08-14 10:12:24,273 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 6.0', 'Element Attributes', 'Element Type Device']
+2025-08-14 10:12:24,273 Import Value: {}
+2025-08-14 10:12:24,273 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 6.0', 'Element Item', 'Device 5']
+2025-08-14 10:12:24,273 Import Value: {}
+2025-08-14 10:12:24,273 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 7.0']
+2025-08-14 10:12:24,273 Import Value: {}
+2025-08-14 10:12:24,273 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 7.0', 'Element Attributes', 'Set']
+2025-08-14 10:12:24,273 Import Value: {}
+2025-08-14 10:12:24,273 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 7.0', 'Element Attributes', 'Element Type Device']
+2025-08-14 10:12:24,273 Import Value: {}
+2025-08-14 10:12:24,273 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 7.0', 'Element Item', 'Device 6']
+2025-08-14 10:12:24,273 Import Value: {}
+2025-08-14 10:12:24,273 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.1']
+2025-08-14 10:12:24,274 Import Value: {}
+2025-08-14 10:12:24,274 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.1', 'Element Attributes', 'Element Type Connection']
+2025-08-14 10:12:24,274 Import Value: {}
+2025-08-14 10:12:24,274 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.1', 'Element Attributes', 'Set']
+2025-08-14 10:12:24,274 Import Value: +
+2025-08-14 10:12:24,274 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.1', 'Element Attributes', 'CON 1 Sheet Item']
+2025-08-14 10:12:24,274 Import Value:  1.0
+2025-08-14 10:12:24,274 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.1', 'Element Attributes', 'CON 1 Part']
+2025-08-14 10:12:24,274 Import Value: Device 1
+2025-08-14 10:12:24,274 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.1', 'Element Attributes', 'CON 1 Port']
+2025-08-14 10:12:24,274 Import Value: S
+2025-08-14 10:12:24,274 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.1', 'Element Attributes', 'CON 2 Sheet Item']
+2025-08-14 10:12:24,274 Import Value:  2.0
+2025-08-14 10:12:24,274 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.1', 'Element Attributes', 'CON 2 Part']
+2025-08-14 10:12:24,274 Import Value: Device 2
+2025-08-14 10:12:24,275 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.1', 'Element Attributes', 'CON 2 Port']
+2025-08-14 10:12:24,275 Import Value: N
+2025-08-14 10:12:24,275 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.1', 'Element Item', 'Connection']
+2025-08-14 10:12:24,275 Import Value: {}
+2025-08-14 10:12:24,275 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.2']
+2025-08-14 10:12:24,275 Import Value: {}
+2025-08-14 10:12:24,275 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.2', 'Element Attributes', 'Element Type Connection']
+2025-08-14 10:12:24,275 Import Value: {}
+2025-08-14 10:12:24,275 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.2', 'Element Attributes', 'Set']
+2025-08-14 10:12:24,275 Import Value: {}
+2025-08-14 10:12:24,275 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.2', 'Element Attributes', 'CON 1 Sheet Item']
+2025-08-14 10:12:24,275 Import Value:  2.0
+2025-08-14 10:12:24,275 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.2', 'Element Attributes', 'CON 1 Part']
+2025-08-14 10:12:24,275 Import Value: Device 2
+2025-08-14 10:12:24,275 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.2', 'Element Attributes', 'CON 1 Port']
+2025-08-14 10:12:24,275 Import Value: W
+2025-08-14 10:12:24,276 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.2', 'Element Attributes', 'CON 2 Sheet Item']
+2025-08-14 10:12:24,276 Import Value:  3.0
+2025-08-14 10:12:24,276 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.2', 'Element Attributes', 'CON 2 Part']
+2025-08-14 10:12:24,276 Import Value: Device 3
+2025-08-14 10:12:24,276 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.2', 'Element Attributes', 'CON 2 Port']
+2025-08-14 10:12:24,276 Import Value: E
+2025-08-14 10:12:24,276 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.2', 'Element Item', 'Connection']
+2025-08-14 10:12:24,276 Import Value: {}
+2025-08-14 10:12:24,276 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.3']
+2025-08-14 10:12:24,276 Import Value: {}
+2025-08-14 10:12:24,276 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.3', 'Element Attributes', 'Element Type Connection']
+2025-08-14 10:12:24,276 Import Value: {}
+2025-08-14 10:12:24,276 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.3', 'Element Attributes', 'Set']
+2025-08-14 10:12:24,276 Import Value: +
+2025-08-14 10:12:24,276 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.3', 'Element Attributes', 'CON 1 Sheet Item']
+2025-08-14 10:12:24,277 Import Value:  2.0
+2025-08-14 10:12:24,277 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.3', 'Element Attributes', 'CON 1 Part']
+2025-08-14 10:12:24,277 Import Value: Device 2
+2025-08-14 10:12:24,277 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.3', 'Element Attributes', 'CON 1 Port']
+2025-08-14 10:12:24,277 Import Value: S
+2025-08-14 10:12:24,277 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.3', 'Element Attributes', 'CON 2 Sheet Item']
+2025-08-14 10:12:24,277 Import Value:  5.0
+2025-08-14 10:12:24,277 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.3', 'Element Attributes', 'CON 2 Part']
+2025-08-14 10:12:24,277 Import Value: Device 7
+2025-08-14 10:12:24,277 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.3', 'Element Attributes', 'CON 2 Port']
+2025-08-14 10:12:24,277 Import Value: N
+2025-08-14 10:12:24,277 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.3', 'Element Item', 'Connection']
+2025-08-14 10:12:24,277 Import Value: {}
+2025-08-14 10:12:24,277 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.4']
+2025-08-14 10:12:24,277 Import Value: {}
+2025-08-14 10:12:24,278 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.4', 'Element Attributes', 'Element Type Connection']
+2025-08-14 10:12:24,278 Import Value: {}
+2025-08-14 10:12:24,278 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.4', 'Element Attributes', 'Set']
+2025-08-14 10:12:24,278 Import Value: {}
+2025-08-14 10:12:24,278 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.4', 'Element Attributes', 'CON 1 Sheet Item']
+2025-08-14 10:12:24,278 Import Value:  2.0
+2025-08-14 10:12:24,278 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.4', 'Element Attributes', 'CON 1 Part']
+2025-08-14 10:12:24,278 Import Value: Device 2
+2025-08-14 10:12:24,278 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.4', 'Element Attributes', 'CON 1 Port']
+2025-08-14 10:12:24,278 Import Value: S
+2025-08-14 10:12:24,278 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.4', 'Element Attributes', 'CON 2 Sheet Item']
+2025-08-14 10:12:24,278 Import Value:  4.0
+2025-08-14 10:12:24,278 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.4', 'Element Attributes', 'CON 2 Part']
+2025-08-14 10:12:24,278 Import Value: Device 4
+2025-08-14 10:12:24,278 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.4', 'Element Attributes', 'CON 2 Port']
+2025-08-14 10:12:24,278 Import Value: N
+2025-08-14 10:12:24,279 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.4', 'Element Item', 'Connection']
+2025-08-14 10:12:24,279 Import Value: {}
+2025-08-14 10:12:24,279 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.5']
+2025-08-14 10:12:24,279 Import Value: {}
+2025-08-14 10:12:24,279 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.5', 'Element Attributes', 'Element Type Connection']
+2025-08-14 10:12:24,279 Import Value: {}
+2025-08-14 10:12:24,279 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.5', 'Element Attributes', 'Set']
+2025-08-14 10:12:24,279 Import Value: {}
+2025-08-14 10:12:24,279 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.5', 'Element Attributes', 'CON 1 Sheet Item']
+2025-08-14 10:12:24,279 Import Value:  4.0
+2025-08-14 10:12:24,279 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.5', 'Element Attributes', 'CON 1 Part']
+2025-08-14 10:12:24,279 Import Value: Device 4
+2025-08-14 10:12:24,279 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.5', 'Element Attributes', 'CON 1 Port']
+2025-08-14 10:12:24,279 Import Value: S
+2025-08-14 10:12:24,279 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.5', 'Element Attributes', 'CON 2 Sheet Item']
+2025-08-14 10:12:24,280 Import Value:  6.0
+2025-08-14 10:12:24,280 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.5', 'Element Attributes', 'CON 2 Part']
+2025-08-14 10:12:24,280 Import Value: Device 5
+2025-08-14 10:12:24,280 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.5', 'Element Attributes', 'CON 2 Port']
+2025-08-14 10:12:24,280 Import Value: N
+2025-08-14 10:12:24,280 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.5', 'Element Item', 'Connection']
+2025-08-14 10:12:24,280 Import Value: {}
+2025-08-14 10:12:24,280 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.6']
+2025-08-14 10:12:24,280 Import Value: {}
+2025-08-14 10:12:24,280 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.6', 'Element Attributes', 'Element Type Connection']
+2025-08-14 10:12:24,280 Import Value: {}
+2025-08-14 10:12:24,280 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.6', 'Element Attributes', 'Set']
+2025-08-14 10:12:24,280 Import Value: {}
+2025-08-14 10:12:24,280 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.6', 'Element Attributes', 'CON 1 Sheet Item']
+2025-08-14 10:12:24,280 Import Value:  4.0
+2025-08-14 10:12:24,280 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.6', 'Element Attributes', 'CON 1 Part']
+2025-08-14 10:12:24,281 Import Value: Device 4
+2025-08-14 10:12:24,281 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.6', 'Element Attributes', 'CON 1 Port']
+2025-08-14 10:12:24,281 Import Value: S2
+2025-08-14 10:12:24,281 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.6', 'Element Attributes', 'CON 2 Sheet Item']
+2025-08-14 10:12:24,281 Import Value:  7.0
+2025-08-14 10:12:24,281 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.6', 'Element Attributes', 'CON 2 Part']
+2025-08-14 10:12:24,281 Import Value: Device 6
+2025-08-14 10:12:24,281 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.6', 'Element Attributes', 'CON 2 Port']
+2025-08-14 10:12:24,281 Import Value: N
+2025-08-14 10:12:24,281 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.6', 'Element Item', 'Connection']
+2025-08-14 10:12:24,281 Import Value: {}
+2025-08-14 10:12:24,281 Import Key: ['Project Item', 'Project', 'Functional Group Attributes']
+2025-08-14 10:12:24,281 Import Value: {}
+2025-08-14 10:12:24,281 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2']
+2025-08-14 10:12:24,281 Import Value: {}
+2025-08-14 10:12:24,282 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Attributes', 'External Circuit']
+2025-08-14 10:12:24,282 Import Value: Heat Exchanger
+2025-08-14 10:12:24,282 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Attributes', 'Cooling Circuit Label']
+2025-08-14 10:12:24,282 Import Value: 1
+2025-08-14 10:12:24,282 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2']
+2025-08-14 10:12:24,282 Import Value: {}
+2025-08-14 10:12:24,282 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 1.9']
+2025-08-14 10:12:24,282 Import Value: {}
+2025-08-14 10:12:24,282 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 1.9', 'Element Attributes', 'Set']
+2025-08-14 10:12:24,282 Import Value: +
+2025-08-14 10:12:24,282 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 1.9', 'Element Attributes', 'Element Type Connection']
+2025-08-14 10:12:24,282 Import Value: {}
+2025-08-14 10:12:24,282 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 1.9', 'Element Item', 'Connection']
+2025-08-14 10:12:24,282 Import Value: {}
+2025-08-14 10:12:24,282 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 1.10']
+2025-08-14 10:12:24,282 Import Value: {}
+2025-08-14 10:12:24,283 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 1.10', 'Element Attributes', 'Set']
+2025-08-14 10:12:24,283 Import Value: +
+2025-08-14 10:12:24,283 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 1.10', 'Element Attributes', 'Element Type Connection']
+2025-08-14 10:12:24,283 Import Value: {}
+2025-08-14 10:12:24,283 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 1.10', 'Element Item', 'Connection']
+2025-08-14 10:12:24,283 Import Value: {}
+2025-08-14 10:12:24,283 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 1.11']
+2025-08-14 10:12:24,283 Import Value: {}
+2025-08-14 10:12:24,283 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 1.11', 'Element Attributes', 'Set']
+2025-08-14 10:12:24,283 Import Value: +
+2025-08-14 10:12:24,283 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 1.11', 'Element Attributes', 'Element Type Connection']
+2025-08-14 10:12:24,283 Import Value: {}
+2025-08-14 10:12:24,283 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 1.11', 'Element Item', 'Connection']
+2025-08-14 10:12:24,283 Import Value: {}
+2025-08-14 10:12:24,283 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 1.12']
+2025-08-14 10:12:24,283 Import Value: {}
+2025-08-14 10:12:24,284 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 1.12', 'Element Attributes', 'Set']
+2025-08-14 10:12:24,284 Import Value: +
+2025-08-14 10:12:24,284 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 1.12', 'Element Attributes', 'Element Type Connection']
+2025-08-14 10:12:24,284 Import Value: {}
+2025-08-14 10:12:24,284 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 1.12', 'Element Item', 'Connection']
+2025-08-14 10:12:24,284 Import Value: {}
+2025-08-14 10:12:24,284 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 2.1']
+2025-08-14 10:12:24,284 Import Value: {}
+2025-08-14 10:12:24,284 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 2.1', 'Element Attributes', 'Type']
+2025-08-14 10:12:24,284 Import Value: Device
+2025-08-14 10:12:24,284 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 2.1', 'Element Attributes', 'Element Type Device']
+2025-08-14 10:12:24,284 Import Value: {}
+2025-08-14 10:12:24,284 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 2.1', 'Element Item', 'Device 3']
+2025-08-14 10:12:24,284 Import Value: {}
+2025-08-14 10:12:24,284 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 2.2']
+2025-08-14 10:12:24,285 Import Value: {}
+2025-08-14 10:12:24,285 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 2.2', 'Element Attributes', 'Type']
+2025-08-14 10:12:24,285 Import Value: Device
+2025-08-14 10:12:24,285 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 2.2', 'Element Attributes', 'Element Type Device']
+2025-08-14 10:12:24,285 Import Value: {}
+2025-08-14 10:12:24,285 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 2.2', 'Element Item', 'Device 4']
+2025-08-14 10:12:24,285 Import Value: {}
+2025-08-14 10:12:24,285 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 2.3']
+2025-08-14 10:12:24,285 Import Value: {}
+2025-08-14 10:12:24,285 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 2.3', 'Element Attributes', 'Element Type Device']
+2025-08-14 10:12:24,285 Import Value: {}
+2025-08-14 10:12:24,285 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 2.3', 'Element Attributes', 'Type']
+2025-08-14 10:12:24,285 Import Value: Device
+2025-08-14 10:12:24,285 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 2.3', 'Element Item', 'Device 1']
+2025-08-14 10:12:24,285 Import Value: {}
+2025-08-14 10:12:24,286 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 2.4']
+2025-08-14 10:12:24,286 Import Value: {}
+2025-08-14 10:12:24,286 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 2.4', 'Element Attributes', 'Element Type Device']
+2025-08-14 10:12:24,286 Import Value: {}
+2025-08-14 10:12:24,286 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 2.4', 'Element Attributes', 'Type']
+2025-08-14 10:12:24,286 Import Value: Device
+2025-08-14 10:12:24,286 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 2.4', 'Element Item', 'Device 3']
+2025-08-14 10:12:24,286 Import Value: {}
+2025-08-14 10:12:24,286 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 3.1']
+2025-08-14 10:12:24,286 Import Value: {}
+2025-08-14 10:12:24,286 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 3.1', 'Element Attributes', 'Element Type Connection']
+2025-08-14 10:12:24,286 Import Value: {}
+2025-08-14 10:12:24,286 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 3.1', 'Element Attributes', 'Set']
+2025-08-14 10:12:24,286 Import Value: +
+2025-08-14 10:12:24,286 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 3.1', 'Element Item', 'Connection']
+2025-08-14 10:12:24,286 Import Value: {}
+2025-08-14 10:12:24,287 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 3.2']
+2025-08-14 10:12:24,287 Import Value: {}
+2025-08-14 10:12:24,287 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 3.2', 'Element Attributes', 'Element Type Connection']
+2025-08-14 10:12:24,287 Import Value: {}
+2025-08-14 10:12:24,287 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 3.2', 'Element Attributes', 'Set']
+2025-08-14 10:12:24,287 Import Value: +
+2025-08-14 10:12:24,287 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 3.2', 'Element Item', 'Connection']
+2025-08-14 10:12:24,287 Import Value: {}
+2025-08-14 10:12:24,287 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 3.3']
+2025-08-14 10:12:24,287 Import Value: {}
+2025-08-14 10:12:24,287 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 3.3', 'Element Attributes', 'Element Type Connection']
+2025-08-14 10:12:24,287 Import Value: {}
+2025-08-14 10:12:24,287 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 3.3', 'Element Attributes', 'Set']
+2025-08-14 10:12:24,287 Import Value: +
+2025-08-14 10:12:24,287 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 3.3', 'Element Item', 'Connection']
+2025-08-14 10:12:24,288 Import Value: {}
+2025-08-14 10:12:24,288 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 3.4']
+2025-08-14 10:12:24,288 Import Value: {}
+2025-08-14 10:12:24,288 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 3.4', 'Element Attributes', 'Element Type Connection']
+2025-08-14 10:12:24,288 Import Value: {}
+2025-08-14 10:12:24,288 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 3.4', 'Element Attributes', 'Set']
+2025-08-14 10:12:24,288 Import Value: +
+2025-08-14 10:12:24,289 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 3.4', 'Element Item', 'Connection']
+2025-08-14 10:12:24,289 Import Value: {}
+2025-08-14 10:12:24,289 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 3.5']
+2025-08-14 10:12:24,289 Import Value: {}
+2025-08-14 10:12:24,289 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 3.5', 'Element Attributes', 'Element Type Connection']
+2025-08-14 10:12:24,289 Import Value: {}
+2025-08-14 10:12:24,289 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 3.5', 'Element Attributes', 'Set']
+2025-08-14 10:12:24,289 Import Value: 0
+2025-08-14 10:12:24,289 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 3.5', 'Element Item', 'Connection']
+2025-08-14 10:12:24,289 Import Value: {}
+2025-08-14 10:12:24,289 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 3.6']
+2025-08-14 10:12:24,289 Import Value: {}
+2025-08-14 10:12:24,289 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 3.6', 'Element Attributes', 'Element Type Connection']
+2025-08-14 10:12:24,289 Import Value: {}
+2025-08-14 10:12:24,290 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 3.6', 'Element Attributes', 'Set']
+2025-08-14 10:12:24,290 Import Value: 0
+2025-08-14 10:12:24,290 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 3.6', 'Element Item', 'Connection']
+2025-08-14 10:12:24,290 Import Value: {}
+2025-08-14 10:12:24,290 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 3.7']
+2025-08-14 10:12:24,290 Import Value: {}
+2025-08-14 10:12:24,290 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 3.7', 'Element Attributes', 'Element Type Connection']
+2025-08-14 10:12:24,290 Import Value: {}
+2025-08-14 10:12:24,290 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 3.7', 'Element Attributes', 'Set']
+2025-08-14 10:12:24,290 Import Value: +
+2025-08-14 10:12:24,290 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 3.7', 'Element Item', 'Connection']
+2025-08-14 10:12:24,290 Import Value: {}
+2025-08-14 10:12:24,290 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 3.8']
+2025-08-14 10:12:24,290 Import Value: {}
+2025-08-14 10:12:24,290 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 3.8', 'Element Attributes', 'Element Type Connection']
+2025-08-14 10:12:24,290 Import Value: {}
+2025-08-14 10:12:24,291 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 3.8', 'Element Attributes', 'Set']
+2025-08-14 10:12:24,291 Import Value: +
+2025-08-14 10:12:24,291 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 3.8', 'Element Item', 'Connection']
+2025-08-14 10:12:24,291 Import Value: {}
+2025-08-14 10:12:24,291 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 4.1']
+2025-08-14 10:12:24,291 Import Value: {}
+2025-08-14 10:12:24,291 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 4.1', 'Element Attributes', 'Element Type Device']
+2025-08-14 10:12:24,291 Import Value: {}
+2025-08-14 10:12:24,291 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 4.1', 'Element Attributes', 'Type']
+2025-08-14 10:12:24,291 Import Value: Device
+2025-08-14 10:12:24,291 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 4.1', 'Element Item', 'Device 2']
+2025-08-14 10:12:24,291 Import Value: {}
+2025-08-14 10:12:24,291 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 4.2']
+2025-08-14 10:12:24,291 Import Value: {}
+2025-08-14 10:12:24,291 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 4.2', 'Element Attributes', 'Element Type Device']
+2025-08-14 10:12:24,292 Import Value: {}
+2025-08-14 10:12:24,292 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 4.2', 'Element Attributes', 'Type']
+2025-08-14 10:12:24,292 Import Value: Device
+2025-08-14 10:12:24,292 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 4.2', 'Element Item', 'Device 2']
+2025-08-14 10:12:24,292 Import Value: {}
+2025-08-14 10:12:24,292 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 4.3']
+2025-08-14 10:12:24,292 Import Value: {}
+2025-08-14 10:12:24,292 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 4.3', 'Element Attributes', 'Element Type Device']
+2025-08-14 10:12:24,292 Import Value: {}
+2025-08-14 10:12:24,292 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 4.3', 'Element Attributes', 'Type']
+2025-08-14 10:12:24,292 Import Value: Device
+2025-08-14 10:12:24,292 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 4.3', 'Element Item', 0]
+2025-08-14 10:12:24,292 Import Value: {}
+2025-08-14 10:12:24,292 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 4.4']
+2025-08-14 10:12:24,292 Import Value: {}
+2025-08-14 10:12:24,293 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 4.4', 'Element Attributes', 'Element Type Device']
+2025-08-14 10:12:24,293 Import Value: {}
+2025-08-14 10:12:24,293 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 4.4', 'Element Attributes', 'Type']
+2025-08-14 10:12:24,293 Import Value: Device
+2025-08-14 10:12:24,293 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 4.4', 'Element Item', 0]
+2025-08-14 10:12:24,293 Import Value: {}
+2025-08-14 10:12:24,293 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 5.1']
+2025-08-14 10:12:24,293 Import Value: {}
+2025-08-14 10:12:24,293 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 5.1', 'Element Attributes', 'Element Type Connection']
+2025-08-14 10:12:24,293 Import Value: {}
+2025-08-14 10:12:24,293 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 5.1', 'Element Attributes', 'Set']
+2025-08-14 10:12:24,293 Import Value: +
+2025-08-14 10:12:24,293 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 5.1', 'Element Item', 'Connection']
+2025-08-14 10:12:24,293 Import Value: {}
+2025-08-14 10:12:24,293 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 5.2']
+2025-08-14 10:12:24,293 Import Value: {}
+2025-08-14 10:12:24,294 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 5.2', 'Element Attributes', 'Element Type Connection']
+2025-08-14 10:12:24,294 Import Value: {}
+2025-08-14 10:12:24,294 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 5.2', 'Element Attributes', 'Set']
+2025-08-14 10:12:24,294 Import Value: +
+2025-08-14 10:12:24,294 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 5.2', 'Element Item', 'Connection']
+2025-08-14 10:12:24,294 Import Value: {}
+2025-08-14 10:12:24,294 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 5.3']
+2025-08-14 10:12:24,294 Import Value: {}
+2025-08-14 10:12:24,294 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 5.3', 'Element Attributes', 'Element Type Connection']
+2025-08-14 10:12:24,294 Import Value: {}
+2025-08-14 10:12:24,294 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 5.3', 'Element Attributes', 'Set']
+2025-08-14 10:12:24,294 Import Value: 0
+2025-08-14 10:12:24,294 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 5.3', 'Element Item', 'Connection']
+2025-08-14 10:12:24,294 Import Value: {}
+2025-08-14 10:12:24,294 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 5.4']
+2025-08-14 10:12:24,294 Import Value: {}
+2025-08-14 10:12:24,295 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 5.4', 'Element Attributes', 'Element Type Connection']
+2025-08-14 10:12:24,295 Import Value: {}
+2025-08-14 10:12:24,295 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 5.4', 'Element Attributes', 'Set']
+2025-08-14 10:12:24,295 Import Value: 0
+2025-08-14 10:12:24,295 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 5.4', 'Element Item', 'Connection']
+2025-08-14 10:12:24,295 Import Value: {}
+2025-08-14 10:12:24,295 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 5.5']
+2025-08-14 10:12:24,295 Import Value: {}
+2025-08-14 10:12:24,295 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 5.5', 'Element Attributes', 'Element Type Connection']
+2025-08-14 10:12:24,295 Import Value: {}
+2025-08-14 10:12:24,295 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 5.5', 'Element Attributes', 'Set']
+2025-08-14 10:12:24,295 Import Value: +
+2025-08-14 10:12:24,295 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 5.5', 'Element Item', 'Connection']
+2025-08-14 10:12:24,295 Import Value: {}
+2025-08-14 10:12:24,295 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 5.6']
+2025-08-14 10:12:24,296 Import Value: {}
+2025-08-14 10:12:24,296 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 5.6', 'Element Attributes', 'Element Type Connection']
+2025-08-14 10:12:24,296 Import Value: {}
+2025-08-14 10:12:24,296 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 5.6', 'Element Attributes', 'Set']
+2025-08-14 10:12:24,296 Import Value: +
+2025-08-14 10:12:24,296 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 5.6', 'Element Item', 'Connection']
+2025-08-14 10:12:24,296 Import Value: {}
+2025-08-14 10:12:24,296 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 5.7']
+2025-08-14 10:12:24,296 Import Value: {}
+2025-08-14 10:12:24,296 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 5.7', 'Element Attributes', 'Element Type Connection']
+2025-08-14 10:12:24,296 Import Value: {}
+2025-08-14 10:12:24,296 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 5.7', 'Element Attributes', 'Set']
+2025-08-14 10:12:24,296 Import Value: 0
+2025-08-14 10:12:24,296 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 5.7', 'Element Item', 'Connection']
+2025-08-14 10:12:24,296 Import Value: {}
+2025-08-14 10:12:24,297 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 5.8']
+2025-08-14 10:12:24,297 Import Value: {}
+2025-08-14 10:12:24,297 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 5.8', 'Element Attributes', 'Element Type Connection']
+2025-08-14 10:12:24,297 Import Value: {}
+2025-08-14 10:12:24,297 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 5.8', 'Element Attributes', 'Set']
+2025-08-14 10:12:24,297 Import Value: 0
+2025-08-14 10:12:24,297 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 5.8', 'Element Item', 'Connection']
+2025-08-14 10:12:24,297 Import Value: {}
+2025-08-14 10:12:24,297 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 6.1']
+2025-08-14 10:12:24,297 Import Value: {}
+2025-08-14 10:12:24,297 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 6.1', 'Element Attributes', 'Element Type Device']
+2025-08-14 10:12:24,297 Import Value: {}
+2025-08-14 10:12:24,297 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 6.1', 'Element Attributes', 'Type']
+2025-08-14 10:12:24,297 Import Value: Device
+2025-08-14 10:12:24,297 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 6.1', 'Element Item', 0]
+2025-08-14 10:12:24,297 Import Value: {}
+2025-08-14 10:12:24,298 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 6.2']
+2025-08-14 10:12:24,298 Import Value: {}
+2025-08-14 10:12:24,298 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 6.2', 'Element Attributes', 'Element Type Device']
+2025-08-14 10:12:24,298 Import Value: {}
+2025-08-14 10:12:24,298 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 6.2', 'Element Attributes', 'Type']
+2025-08-14 10:12:24,298 Import Value: Device
+2025-08-14 10:12:24,298 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 6.2', 'Element Item', 0]
+2025-08-14 10:12:24,298 Import Value: {}
+2025-08-14 10:12:24,298 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 6.3']
+2025-08-14 10:12:24,298 Import Value: {}
+2025-08-14 10:12:24,298 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 6.3', 'Element Attributes', 'Element Type Device']
+2025-08-14 10:12:24,298 Import Value: {}
+2025-08-14 10:12:24,298 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 6.3', 'Element Attributes', 'Type']
+2025-08-14 10:12:24,298 Import Value: Device
+2025-08-14 10:12:24,298 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 6.3', 'Element Item', 0]
+2025-08-14 10:12:24,298 Import Value: {}
+2025-08-14 10:12:24,299 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 6.4']
+2025-08-14 10:12:24,299 Import Value: {}
+2025-08-14 10:12:24,299 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 6.4', 'Element Attributes', 'Element Type Device']
+2025-08-14 10:12:24,299 Import Value: {}
+2025-08-14 10:12:24,299 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 6.4', 'Element Attributes', 'Type']
+2025-08-14 10:12:24,299 Import Value: Device
+2025-08-14 10:12:24,299 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 6.4', 'Element Item', 0]
+2025-08-14 10:12:24,299 Import Value: {}
+2025-08-14 10:12:24,299 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 7.1']
+2025-08-14 10:12:24,299 Import Value: {}
+2025-08-14 10:12:24,299 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 7.1', 'Element Attributes', 'Element Type Connection']
+2025-08-14 10:12:24,299 Import Value: {}
+2025-08-14 10:12:24,299 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 7.1', 'Element Attributes', 'Set']
+2025-08-14 10:12:24,299 Import Value: 0
+2025-08-14 10:12:24,299 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 7.1', 'Element Item', 'Connection']
+2025-08-14 10:12:24,300 Import Value: {}
+2025-08-14 10:12:24,300 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 7.2']
+2025-08-14 10:12:24,300 Import Value: {}
+2025-08-14 10:12:24,300 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 7.2', 'Element Attributes', 'Element Type Connection']
+2025-08-14 10:12:24,300 Import Value: {}
+2025-08-14 10:12:24,300 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 7.2', 'Element Attributes', 'Set']
+2025-08-14 10:12:24,300 Import Value: 0
+2025-08-14 10:12:24,300 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 7.2', 'Element Item', 'Connection']
+2025-08-14 10:12:24,300 Import Value: {}
+2025-08-14 10:12:24,300 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 7.3']
+2025-08-14 10:12:24,300 Import Value: {}
+2025-08-14 10:12:24,300 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 7.3', 'Element Attributes', 'Element Type Connection']
+2025-08-14 10:12:24,300 Import Value: {}
+2025-08-14 10:12:24,300 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 7.3', 'Element Attributes', 'Set']
+2025-08-14 10:12:24,300 Import Value: 0
+2025-08-14 10:12:24,301 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 7.3', 'Element Item', 'Connection']
+2025-08-14 10:12:24,301 Import Value: {}
+2025-08-14 10:12:24,301 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 7.4']
+2025-08-14 10:12:24,301 Import Value: {}
+2025-08-14 10:12:24,301 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 7.4', 'Element Attributes', 'Element Type Connection']
+2025-08-14 10:12:24,301 Import Value: {}
+2025-08-14 10:12:24,301 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 7.4', 'Element Attributes', 'Set']
+2025-08-14 10:12:24,301 Import Value: 0
+2025-08-14 10:12:24,301 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 7.4', 'Element Item', 'Connection']
+2025-08-14 10:12:24,301 Import Value: {}
+2025-08-14 10:12:24,301 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 7.5']
+2025-08-14 10:12:24,301 Import Value: {}
+2025-08-14 10:12:24,301 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 7.5', 'Element Attributes', 'Element Type Connection']
+2025-08-14 10:12:24,301 Import Value: {}
+2025-08-14 10:12:24,301 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 7.5', 'Element Attributes', 'Set']
+2025-08-14 10:12:24,301 Import Value: 0
+2025-08-14 10:12:24,302 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 7.5', 'Element Item', 'Connection']
+2025-08-14 10:12:24,302 Import Value: {}
+2025-08-14 10:12:24,302 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 7.6']
+2025-08-14 10:12:24,302 Import Value: {}
+2025-08-14 10:12:24,302 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 7.6', 'Element Attributes', 'Element Type Connection']
+2025-08-14 10:12:24,302 Import Value: {}
+2025-08-14 10:12:24,302 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 7.6', 'Element Attributes', 'Set']
+2025-08-14 10:12:24,302 Import Value: 0
+2025-08-14 10:12:24,302 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 7.6', 'Element Item', 'Connection']
+2025-08-14 10:12:24,302 Import Value: {}
+2025-08-14 10:12:24,302 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 7.7']
+2025-08-14 10:12:24,302 Import Value: {}
+2025-08-14 10:12:24,302 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 7.7', 'Element Attributes', 'Element Type Connection']
+2025-08-14 10:12:24,302 Import Value: {}
+2025-08-14 10:12:24,302 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 7.7', 'Element Attributes', 'Set']
+2025-08-14 10:12:24,302 Import Value: 0
+2025-08-14 10:12:24,303 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 7.7', 'Element Item', 'Connection']
+2025-08-14 10:12:24,303 Import Value: {}
+2025-08-14 10:12:24,303 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 7.8']
+2025-08-14 10:12:24,303 Import Value: {}
+2025-08-14 10:12:24,303 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 7.8', 'Element Attributes', 'Element Type Connection']
+2025-08-14 10:12:24,303 Import Value: {}
+2025-08-14 10:12:24,303 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 7.8', 'Element Attributes', 'Set']
+2025-08-14 10:12:24,303 Import Value: 0
+2025-08-14 10:12:24,303 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 7.8', 'Element Item', 'Connection']
+2025-08-14 10:12:24,303 Import Value: {}
+2025-08-14 10:12:24,303 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 8.1']
+2025-08-14 10:12:24,303 Import Value: {}
+2025-08-14 10:12:24,303 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 8.1', 'Element Attributes', 'Element Type Device']
+2025-08-14 10:12:24,303 Import Value: {}
+2025-08-14 10:12:24,303 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 8.1', 'Element Attributes', 'Type']
+2025-08-14 10:12:24,304 Import Value: Device
+2025-08-14 10:12:24,304 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 8.1', 'Element Item', 0]
+2025-08-14 10:12:24,304 Import Value: {}
+2025-08-14 10:12:24,304 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 8.2']
+2025-08-14 10:12:24,304 Import Value: {}
+2025-08-14 10:12:24,304 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 8.2', 'Element Attributes', 'Element Type Device']
+2025-08-14 10:12:24,304 Import Value: {}
+2025-08-14 10:12:24,304 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 8.2', 'Element Attributes', 'Type']
+2025-08-14 10:12:24,304 Import Value: Device
+2025-08-14 10:12:24,304 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 8.2', 'Element Item', 0]
+2025-08-14 10:12:24,304 Import Value: {}
+2025-08-14 10:12:24,304 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 8.3']
+2025-08-14 10:12:24,304 Import Value: {}
+2025-08-14 10:12:24,305 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 8.3', 'Element Attributes', 'Element Type Device']
+2025-08-14 10:12:24,305 Import Value: {}
+2025-08-14 10:12:24,305 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 8.3', 'Element Attributes', 'Type']
+2025-08-14 10:12:24,305 Import Value: Device
+2025-08-14 10:12:24,305 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 8.3', 'Element Item', 0]
+2025-08-14 10:12:24,305 Import Value: {}
+2025-08-14 10:12:24,305 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 8.4']
+2025-08-14 10:12:24,305 Import Value: {}
+2025-08-14 10:12:24,305 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 8.4', 'Element Attributes', 'Element Type Device']
+2025-08-14 10:12:24,305 Import Value: {}
+2025-08-14 10:12:24,305 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 8.4', 'Element Attributes', 'Type']
+2025-08-14 10:12:24,305 Import Value: Device
+2025-08-14 10:12:24,305 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 8.4', 'Element Item', 0]
+2025-08-14 10:12:24,305 Import Value: {}
+2025-08-14 10:12:24,306 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 9.1']
+2025-08-14 10:12:24,306 Import Value: {}
+2025-08-14 10:12:24,306 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 9.1', 'Element Attributes', 'Element Type Connection']
+2025-08-14 10:12:24,306 Import Value: {}
+2025-08-14 10:12:24,306 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 9.1', 'Element Attributes', 'Set']
+2025-08-14 10:12:24,306 Import Value: 0
+2025-08-14 10:12:24,306 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 9.1', 'Element Item', 'Connection']
+2025-08-14 10:12:24,306 Import Value: {}
+2025-08-14 10:12:24,306 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 9.2']
+2025-08-14 10:12:24,306 Import Value: {}
+2025-08-14 10:12:24,306 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 9.2', 'Element Attributes', 'Element Type Connection']
+2025-08-14 10:12:24,306 Import Value: {}
+2025-08-14 10:12:24,306 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 9.2', 'Element Attributes', 'Set']
+2025-08-14 10:12:24,306 Import Value: 0
+2025-08-14 10:12:24,307 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 9.2', 'Element Item', 'Connection']
+2025-08-14 10:12:24,307 Import Value: {}
+2025-08-14 10:12:24,307 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 9.3']
+2025-08-14 10:12:24,307 Import Value: {}
+2025-08-14 10:12:24,307 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 9.3', 'Element Attributes', 'Element Type Connection']
+2025-08-14 10:12:24,307 Import Value: {}
+2025-08-14 10:12:24,307 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 9.3', 'Element Attributes', 'Set']
+2025-08-14 10:12:24,307 Import Value: 0
+2025-08-14 10:12:24,307 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 9.3', 'Element Item', 'Connection']
+2025-08-14 10:12:24,307 Import Value: {}
+2025-08-14 10:12:24,307 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 9.4']
+2025-08-14 10:12:24,307 Import Value: {}
+2025-08-14 10:12:24,307 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 9.4', 'Element Attributes', 'Element Type Connection']
+2025-08-14 10:12:24,307 Import Value: {}
+2025-08-14 10:12:24,307 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 9.4', 'Element Attributes', 'Set']
+2025-08-14 10:12:24,308 Import Value: 0
+2025-08-14 10:12:24,308 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 9.4', 'Element Item', 'Connection']
+2025-08-14 10:12:24,308 Import Value: {}
+2025-08-14 10:12:24,308 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 11.1']
+2025-08-14 10:12:24,308 Import Value: {}
+2025-08-14 10:12:24,308 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 11.1', 'Element Attributes', 'Element Type Device']
+2025-08-14 10:12:24,308 Import Value: {}
+2025-08-14 10:12:24,308 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 11.1', 'Element Attributes', 'Set ']
+2025-08-14 10:12:24,308 Import Value: +
+2025-08-14 10:12:24,308 Import Key: ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 11.1', 'Element Item', 'Tank']
+2025-08-14 10:12:24,308 Import Value: {}
+2025-08-14 10:12:24,316 Config imported into json File data.json
+2025-08-14 10:12:24,317 
+2025-08-14 10:12:24,317 
+2025-08-14 10:12:24,317 
+2025-08-14 10:12:24,317 
+2025-08-14 10:12:24,317 
+2025-08-14 10:12:24,317 
+2025-08-14 10:12:24,317 
+2025-08-14 10:12:24,317 
+2025-08-14 10:12:24,317 
+2025-08-14 10:12:24,317 
+2025-08-14 10:12:24,403 Preparing fgroup1
+2025-08-14 10:12:24,403 Starting add_drawing...
+2025-08-14 10:12:24,404 Found 1 Sheet Item paths for part_key 'FUNCTIONAL_GROUP_1'.
+2025-08-14 10:12:24,404 Set Part Item for key 'Device 1' in Element Item at [' 1.0', 'Element Item'].
+2025-08-14 10:12:24,404 Set Part Item for key 'Device 2' in Element Item at [' 2.0', 'Element Item'].
+2025-08-14 10:12:24,404 Set Part Item for key 'Device 3' in Element Item at [' 3.0', 'Element Item'].
+2025-08-14 10:12:24,404 Set Part Item for key 'Device 4' in Element Item at [' 4.0', 'Element Item'].
+2025-08-14 10:12:24,404 Set Part Item for key 'Device 7' in Element Item at [' 5.0', 'Element Item'].
+2025-08-14 10:12:24,404 Set Part Item for key 'Device 5' in Element Item at [' 6.0', 'Element Item'].
+2025-08-14 10:12:24,404 Set Part Item for key 'Device 6' in Element Item at [' 7.0', 'Element Item'].
+2025-08-14 10:12:24,404 Starting add_positions for FUNCTIONAL_GROUP_1 ...
+2025-08-14 10:12:24,405 Error loading positions from dataframe: cannot convert float NaN to integer
+2025-08-14 10:12:24,405 add_positions for FUNCTIONAL_GROUP_1 completed.
+2025-08-14 10:12:24,406 Starting add_sheet_template...
+2025-08-14 10:12:24,406 Starting add_wire for FUNCTIONAL_GROUP_1...
+2025-08-14 10:12:24,406 add_wire for FUNCTIONAL_GROUP_1 completed.
+2025-08-14 10:12:24,406 Preparing fgroup2
+2025-08-14 10:12:24,406 Starting complete_structure...
+2025-08-14 10:12:24,406 Processing cooling sheet items...
+2025-08-14 10:12:24,406 Cooling sheet processing completed.
+2025-08-14 10:12:24,406 Starting cleanup...
+2025-08-14 10:12:24,407 Cleanup completed.
+2025-08-14 10:12:24,407 Cleanup completed.
+2025-08-14 10:12:24,407 Starting add_drawing...
+2025-08-14 10:12:24,407 Found 1 Sheet Item paths for part_key 'FUNCTIONAL_GROUP_2'.
+2025-08-14 10:12:24,407 Set Part Item for key 'Device 3' in Element Item at [' 2.1', 'Element Item'].
+2025-08-14 10:12:24,407 Set Part Item for key 'Device 4' in Element Item at [' 2.2', 'Element Item'].
+2025-08-14 10:12:24,407 Set Part Item for key 'Device 1' in Element Item at [' 2.3', 'Element Item'].
+2025-08-14 10:12:24,407 Set Part Item for key 'Device 3' in Element Item at [' 2.4', 'Element Item'].
+2025-08-14 10:12:24,407 Set Part Item for key 'Device 2' in Element Item at [' 4.1', 'Element Item'].
+2025-08-14 10:12:24,407 Set Part Item for key 'Device 2' in Element Item at [' 4.2', 'Element Item'].
+2025-08-14 10:12:24,407 Set Part Item for key 'Tank' in Element Item at [' 11.1', 'Element Item'].
+2025-08-14 10:12:24,407 Set Part Item for key 'Pipe Tee' in Element Item at [' 3.14', 'Element Item'].
+2025-08-14 10:12:24,407 Set Part Item for key 'Pipe Tee' in Element Item at [' 3.15', 'Element Item'].
+2025-08-14 10:12:24,407 Set Part Item for key 'Pipe Tee' in Element Item at [' 5.13', 'Element Item'].
+2025-08-14 10:12:24,407 Set Part Item for key 'Pipe Tee' in Element Item at [' 5.14', 'Element Item'].
+2025-08-14 10:12:24,407 Set Part Item for key 'Pipe Tee' in Element Item at [' 1.13', 'Element Item'].
+2025-08-14 10:12:24,407 Set Part Item for key 'Pipe Tee' in Element Item at [' 1.14', 'Element Item'].
+2025-08-14 10:12:24,407 Set Part Item for key 'Pipe Tee' in Element Item at [' 1.15', 'Element Item'].
+2025-08-14 10:12:24,407 Set Part Item for key 'Pipe Tee' in Element Item at [' 1.16', 'Element Item'].
+2025-08-14 10:12:24,407 Set Part Item for key 'Pump' in Element Item at [' 10.1', 'Element Item'].
+2025-08-14 10:12:24,407 Set Part Item for key 'Heat Exchanger' in Element Item at [' 12.1', 'Element Item'].
+2025-08-14 10:12:24,407 Set Part Item for key 'Pump' in Element Item at [' 12.2', 'Element Item'].
+2025-08-14 10:12:24,407 Set Part Item for key 'Seawater' in Element Item at [' 12.6', 'Element Item'].
+2025-08-14 10:12:24,407 Set Part Item for key 'Pipe Tee' in Element Item at [' 10.2', 'Element Item'].
+2025-08-14 10:12:24,407 Starting add_positions for FUNCTIONAL_GROUP_2 ...
+2025-08-14 10:12:24,411 Error loading positions from dataframe: cannot convert float NaN to integer
+2025-08-14 10:12:24,411 Error setting connection positions for  12.4 in sheet at ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item']: 'FUNCTIONAL_GROUP_2 Seawater'
+2025-08-14 10:12:24,411 Error setting connection positions for  12.5 in sheet at ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item']: 'FUNCTIONAL_GROUP_2 Seawater'
+2025-08-14 10:12:24,411 add_positions for FUNCTIONAL_GROUP_2 completed.
+2025-08-14 10:12:24,411 Starting add_sheet_template...
+2025-08-14 10:12:24,421 
+2025-08-14 10:12:24,421 
+2025-08-14 10:12:24,421 
+2025-08-14 10:12:24,421 
+2025-08-14 10:12:24,421 
+2025-08-14 10:12:24,421 
+2025-08-14 10:12:24,421 
+2025-08-14 10:12:24,421 
+2025-08-14 10:12:24,421 
+2025-08-14 10:12:24,421 
+2025-08-14 10:12:24,460 Starting add_sheets...
+2025-08-14 10:12:25,468 Set sheet name to Group_1 with Zuken ID 1457454
+2025-08-14 10:12:26,396 Set sheet name to Group_2 with Zuken ID 1440861
+2025-08-14 10:12:26,397 add_sheets completed.
+2025-08-14 10:12:26,397 Starting add_parts...
+2025-08-14 10:12:27,406 add_parts completed.
+2025-08-14 10:12:28,378 add_parts completed.
+2025-08-14 10:12:29,332 add_parts completed.
+2025-08-14 10:12:30,320 add_parts completed.
+2025-08-14 10:12:31,305 add_parts completed.
+2025-08-14 10:12:32,277 add_parts completed.
+2025-08-14 10:12:33,225 add_parts completed.
+2025-08-14 10:12:34,197 add_parts completed.
+2025-08-14 10:12:35,175 add_parts completed.
+2025-08-14 10:12:36,141 add_parts completed.
+2025-08-14 10:12:37,128 add_parts completed.
+2025-08-14 10:12:38,140 add_parts completed.
+2025-08-14 10:12:39,104 add_parts completed.
+2025-08-14 10:12:40,125 add_parts completed.
+2025-08-14 10:12:41,112 add_parts completed.
+2025-08-14 10:12:42,108 add_parts completed.
+2025-08-14 10:12:43,102 add_parts completed.
+2025-08-14 10:12:44,119 add_parts completed.
+2025-08-14 10:12:45,098 add_parts completed.
+2025-08-14 10:12:46,108 add_parts completed.
+2025-08-14 10:12:47,112 add_parts completed.
+2025-08-14 10:12:47,153 add_parts completed.
+2025-08-14 10:12:48,255 add_parts completed.
+2025-08-14 10:12:48,255 Starting add_connections...
+2025-08-14 10:12:48,267 Starting add_wire...
+2025-08-14 10:12:48,269 Core: BU
+2025-08-14 10:12:48,270 End Pins Set
+2025-08-14 10:12:48,271 Error in add_wire: 'Draw' object has no attribute 'set_assignment'
+2025-08-14 10:12:48,271 Added wire for connection at path ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.1', 'Element Item', 'Connection'], conId: 1089398, segId: 1089489
+2025-08-14 10:12:48,271 add_connections completed.
+2025-08-14 10:12:48,280 Starting add_wire...
+2025-08-14 10:12:48,281 Core: BU
+2025-08-14 10:12:48,282 End Pins Set
+2025-08-14 10:12:48,282 Error in add_wire: 'Draw' object has no attribute 'set_assignment'
+2025-08-14 10:12:48,283 Added wire for connection at path ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_1', 'Group Item', 'Group_1', 'Sheet Item', ' 9.3', 'Element Item', 'Connection'], conId: 1088370, segId: 1088553
+2025-08-14 10:12:48,283 add_connections completed.
+2025-08-14 10:12:48,300 Starting add_wire...
+2025-08-14 10:12:48,300 Added wire for connection at path ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 1.9', 'Element Item', 'Connection'], conId: 1087923, segId: 1088003
+2025-08-14 10:12:48,300 add_connections completed.
+2025-08-14 10:12:48,316 Starting add_wire...
+2025-08-14 10:12:48,317 Added wire for connection at path ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 1.10', 'Element Item', 'Connection'], conId: 1087793, segId: 1087854
+2025-08-14 10:12:48,317 add_connections completed.
+2025-08-14 10:12:48,332 Starting add_wire...
+2025-08-14 10:12:48,332 Added wire for connection at path ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 1.11', 'Element Item', 'Connection'], conId: 1087662, segId: 1087726
+2025-08-14 10:12:48,332 add_connections completed.
+2025-08-14 10:12:48,347 Starting add_wire...
+2025-08-14 10:12:48,348 Added wire for connection at path ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 1.12', 'Element Item', 'Connection'], conId: 1087532, segId: 1087597
+2025-08-14 10:12:48,348 add_connections completed.
+2025-08-14 10:12:48,360 Starting add_wire...
+2025-08-14 10:12:48,360 Added wire for connection at path ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 3.1', 'Element Item', 'Connection'], conId: 1087369, segId: 1087447
+2025-08-14 10:12:48,360 add_connections completed.
+2025-08-14 10:12:48,375 Starting add_wire...
+2025-08-14 10:12:48,375 Added wire for connection at path ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 3.2', 'Element Item', 'Connection'], conId: 1087205, segId: 1087284
+2025-08-14 10:12:48,375 add_connections completed.
+2025-08-14 10:12:48,390 Starting add_wire...
+2025-08-14 10:12:48,391 Added wire for connection at path ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 3.3', 'Element Item', 'Connection'], conId: 1087040, segId: 1087120
+2025-08-14 10:12:48,391 add_connections completed.
+2025-08-14 10:12:48,406 Starting add_wire...
+2025-08-14 10:12:48,406 Added wire for connection at path ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 3.4', 'Element Item', 'Connection'], conId: 1086874, segId: 1086955
+2025-08-14 10:12:48,406 add_connections completed.
+2025-08-14 10:12:48,420 Starting add_wire...
+2025-08-14 10:12:48,420 Added wire for connection at path ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 3.7', 'Element Item', 'Connection'], conId: 1086745, segId: 1086809
+2025-08-14 10:12:48,420 add_connections completed.
+2025-08-14 10:12:48,434 Starting add_wire...
+2025-08-14 10:12:48,434 Added wire for connection at path ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 5.1', 'Element Item', 'Connection'], conId: 1086577, segId: 1086660
+2025-08-14 10:12:48,434 add_connections completed.
+2025-08-14 10:12:48,446 Starting add_wire...
+2025-08-14 10:12:48,446 Added wire for connection at path ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 5.2', 'Element Item', 'Connection'], conId: 1086408, segId: 1086492
+2025-08-14 10:12:48,447 add_connections completed.
+2025-08-14 10:12:48,460 Starting add_wire...
+2025-08-14 10:12:48,461 Added wire for connection at path ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 5.5', 'Element Item', 'Connection'], conId: 1086273, segId: 1086343
+2025-08-14 10:12:48,461 add_connections completed.
+2025-08-14 10:12:48,474 Starting add_wire...
+2025-08-14 10:12:48,474 Added wire for connection at path ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 5.6', 'Element Item', 'Connection'], conId: 1086140, segId: 1086208
+2025-08-14 10:12:48,474 add_connections completed.
+2025-08-14 10:12:48,488 Starting add_wire...
+2025-08-14 10:12:48,488 Added wire for connection at path ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 1.5', 'Element Item', 'Connection'], conId: 1085997, segId: 1086075
+2025-08-14 10:12:48,488 add_connections completed.
+2025-08-14 10:12:48,504 Starting add_wire...
+2025-08-14 10:12:48,504 Added wire for connection at path ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 1.6', 'Element Item', 'Connection'], conId: 1085862, segId: 1085932
+2025-08-14 10:12:48,504 add_connections completed.
+2025-08-14 10:12:48,518 Starting add_wire...
+2025-08-14 10:12:48,518 Added wire for connection at path ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 1.7', 'Element Item', 'Connection'], conId: 1085726, segId: 1085797
+2025-08-14 10:12:48,518 add_connections completed.
+2025-08-14 10:12:48,532 Starting add_wire...
+2025-08-14 10:12:48,533 Added wire for connection at path ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 1.8', 'Element Item', 'Connection'], conId: 1085589, segId: 1085661
+2025-08-14 10:12:48,533 add_connections completed.
+2025-08-14 10:12:48,547 Starting add_wire...
+2025-08-14 10:12:48,547 Added wire for connection at path ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 3.10', 'Element Item', 'Connection'], conId: 1085445, segId: 1085524
+2025-08-14 10:12:48,547 add_connections completed.
+2025-08-14 10:12:48,579 Starting add_wire...
+2025-08-14 10:12:48,581 Added wire for connection at path ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 10.3', 'Element Item', 'Connection'], conId: 1085116, segId: 1085380
+2025-08-14 10:12:48,581 add_connections completed.
+2025-08-14 10:12:48,597 Starting add_wire...
+2025-08-14 10:12:48,598 Added wire for connection at path ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 10.4', 'Element Item', 'Connection'], conId: 1084956, segId: 1085035
+2025-08-14 10:12:48,598 add_connections completed.
+2025-08-14 10:12:48,625 Starting add_wire...
+2025-08-14 10:12:48,626 Added wire for connection at path ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 11.2', 'Element Item', 'Connection'], conId: 1084621, segId: 1084882
+2025-08-14 10:12:48,626 add_connections completed.
+2025-08-14 10:12:48,654 Starting add_wire...
+2025-08-14 10:12:48,654 Added wire for connection at path ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 11.3', 'Element Item', 'Connection'], conId: 1084278, segId: 1084531
+2025-08-14 10:12:48,655 add_connections completed.
+2025-08-14 10:12:48,671 Starting add_wire...
+2025-08-14 10:12:48,671 Added wire for connection at path ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 12.3', 'Element Item', 'Connection'], conId: 1084092, segId: 1084172
+2025-08-14 10:12:48,671 add_connections completed.
+2025-08-14 10:12:48,671 Coordinates were not found for connection at path ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 12.4', 'Element Item', 'Connection']: 'CON 1 xPos'
+2025-08-14 10:12:48,671 Coordinates were not found for connection at path ['Project Item', 'Project', 'Functional Group Item', 'FUNCTIONAL_GROUP_2', 'Group Item', 'Group_2', 'Sheet Item', ' 12.5', 'Element Item', 'Connection']: 'CON 1 xPos'
+2025-08-14 10:12:48,671 Starting add_texts...
+2025-08-14 10:12:48,671 add_texts completed.
+2025-08-14 10:12:49,027 Drawing completed
